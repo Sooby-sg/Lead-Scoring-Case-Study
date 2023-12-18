@@ -18,7 +18,7 @@ To optimize lead conversion, the initial step involves identifying the most prom
 Once identified, maintaining a dynamic list of leads enables personalized communication about new courses, services, job opportunities, and future educational offerings. Careful monitoring of each lead facilitates tailored interactions, ensuring that the information provided aligns with the individual interests of the leads.
 Strategically focusing on converted leads, conducting question-answer sessions, and making targeted inquiries and appointments are integral components of the approach.
 Emphasizing working professionals, who exhibit higher conversion rates, further enhances the success of the program. This comprehensive plan aims to capture leads as prospects by aligning offerings with individual needs and fostering meaningful engagements throughout the conversion process.
-Focus on the Lead references and sources, they tend to get a good conversion rate when the lead is from a good sources like Welingak Website and Olark Chat
+Focus on the Lead references and sources, they tend to get a good conversion rate when the lead is from good sources like the Welingak Website and Olark Chat
 
-
+## Instructions to run the file
 To run main.py set the 'Path' as the current path for the dataset Leads.csv
